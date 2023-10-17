@@ -1,0 +1,15 @@
+{
+  "javatype":"ru.sbrf.demo.CoffeeMachineRq",
+  "type":"object",
+  "properties": {
+    "TypeOfCoffee": {
+      "type": "string"
+    },
+    "Volume": {
+      "type": "double"
+    },
+    "DegreeOfGrinding": {
+      "type": "string"
+    }
+  }
+}

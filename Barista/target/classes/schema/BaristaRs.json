@@ -1,0 +1,14 @@
+{
+  "javatype":"ru.sbrf.demo.ResponseFromBarista",
+  "type":"object",
+  "properties": {
+    "CupOfCoffee": {
+      "type": "object"
+    },
+    "": {
+      "Value": {
+        "type": "long"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type":"object",
+  "javatype":"ru.sbrf.demo.RequestToBarista",
+  "properties": {
+    "TypeOfCoffee": {
+      "type": "string"
+    },
+    "Volume": {
+      "type": "double"
+    },
+    "DegreeOfGrinding": {
+      "type": "string"
+    },
+    "HasMilkBeenAdded": {
+      "type": "boolean"
+    }
+  }
+}
